@@ -21,6 +21,7 @@ And sure enough it compiled, deployed to the board, and just worked. Below is th
 
 <img width="1028" height="1132" alt="image" src="https://github.com/user-attachments/assets/b7d50023-0f5b-40a7-8e6a-5c7964e0c611" />
 
+And to ensure I get more out of this than telling Claude to do things, I will learn what all the code does. And for that, I'll ask.. Claude.. sigh.
 
 ======== Below here is what Claude wrote for the README =====
 
