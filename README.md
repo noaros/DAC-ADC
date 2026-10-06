@@ -15,8 +15,14 @@ One jumper wire:
 |---|---|
 | **PA4** (DAC_OUT1), CN7 pin 17 (Zio "D24") | **PA3** (ADC1_IN3), CN9 pin 1 (Arduino "A0") |
 
-Check the pin locations against the silkscreen or the *ST Zio connectors* tables
-in UM1974 before powering up.
+With the ST-LINK USB connector at the top and looking at the top side of the
+board, the odd pins of each Zio header are in the **left** column:
+
+- **PA3** is the top-left pin of CN9, the lower header on the left side.
+- **PA4** is the 9th pin down in the left column of CN7, the upper header on
+  the right side.
+
+Source: UM1974, Table 16 and Figure 9.
 
 ## Build and flash
 
