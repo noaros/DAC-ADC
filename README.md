@@ -1,5 +1,13 @@
 # DAC-ADC
 
+Claude Code continues to leave me speechless.
+
+<img width="1028" height="1132" alt="image" src="https://github.com/user-attachments/assets/b7d50023-0f5b-40a7-8e6a-5c7964e0c611" />
+
+
+========
+
+
 DAC → ADC loopback demo for the **NUCLEO-F429ZI**. The DAC steps through a
 set of output codes, the ADC reads each voltage back, and the board prints a
 comparison table over the ST-LINK USB serial port.
