@@ -1,6 +1,8 @@
 # DAC-ADC
 
-Claude Code continues to leave me speechless.
+Claude Code continues to leave me speechless. We'll get to why shortly.
+
+I consulted with it for demo ideas of digital to analog conversion, and vice versa. I rejected several of the fancier ideas for this brilliantly and comically simple one requiring a mere loopback jumper, since the board I'm using (Nucleo F429ZI) has both DAC and ADC peripherals. So the chip reads in its own output signal! The DAC version of 127.0.0.1.
 
 <img width="1028" height="1132" alt="image" src="https://github.com/user-attachments/assets/b7d50023-0f5b-40a7-8e6a-5c7964e0c611" />
 
