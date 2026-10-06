@@ -19,9 +19,6 @@ All the above makes me feel I'm living in a science fiction movie!
 
 And sure enough it compiled, deployed to the board, and just worked. Below is the output.
 
-[put pic here]
-
-
 <img width="1028" height="1132" alt="image" src="https://github.com/user-attachments/assets/b7d50023-0f5b-40a7-8e6a-5c7964e0c611" />
 
 
