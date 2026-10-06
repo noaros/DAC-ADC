@@ -4,6 +4,8 @@ Claude Code continues to leave me speechless. We'll get to why shortly.
 
 I consulted with it for demo ideas of digital to analog conversion, and vice versa. I rejected several of the fancier ideas for this brilliantly and comically simple one requiring a mere loopback jumper, since the board I'm using (Nucleo F429ZI) has both DAC and ADC peripherals. So the chip reads in its own output signal! The DAC version of 127.0.0.1.
 
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/05bf996a-1983-4fcb-8c13-c9a1b30d1bfd" />
+
 I asked Claude about the physical pin-out for the two ports, and the following happened:
 
 It tried to download the manual. It didn't work and used a mirror site instead.
@@ -23,7 +25,7 @@ And sure enough it compiled, deployed to the board, and just worked. Below is th
 <img width="1028" height="1132" alt="image" src="https://github.com/user-attachments/assets/b7d50023-0f5b-40a7-8e6a-5c7964e0c611" />
 
 
-========
+======== Below here is what Claude wrote for the README =====
 
 
 DAC → ADC loopback demo for the **NUCLEO-F429ZI**. The DAC steps through a
