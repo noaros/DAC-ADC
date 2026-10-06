@@ -13,7 +13,7 @@ It found the right page of the manual.
 It distilled unnecessary info from the table on that page.
 It mapped the linear list from that table to a dual column even odd view that matched the physical layout!
 It rendered that out in cute ascii art for the terminal.
-It added the answer (without my prompting) to the readme.
+It added the answer (without my prompting) to the README.
 
 All the above makes me feel I'm living in a science fiction movie!
 
